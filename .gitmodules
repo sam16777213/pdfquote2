@@ -4,3 +4,6 @@
 [submodule "3rdparty/pdf-annotate.js"]
 	path = 3rdparty/pdf-annotate.js
 	url = https://github.com/instructure/pdf-annotate.js
+[submodule "3rdparty/pdf.js"]
+	path = 3rdparty/pdf.js
+	url = https://github.com/mozilla/pdf.js
